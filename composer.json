@@ -22,9 +22,9 @@
     ],
     "require": {
         "php": "^8.2",
-        "hyperf/context": "~3.2.0",
-        "hyperf/dispatcher": "~3.2.0",
-        "hyperf/pipeline": "~3.2.0"
+        "hyperf/context": "dev-3.2",
+        "hyperf/dispatcher": "dev-3.2",
+        "hyperf/pipeline": "dev-3.2"
     },
     "autoload": {
         "psr-4": {
